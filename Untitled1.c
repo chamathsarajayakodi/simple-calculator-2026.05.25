@@ -5,6 +5,7 @@ int main()
     float var1, var2;
     char op;
 
+    printf("Simple Calculator\n");
     printf("Enter the varriable 1: ");
     scanf("%f",&var1);
     printf("Enter the operator (+,-,*,/): ");
